@@ -5,3 +5,5 @@
 
 # Post
 - [QEMU + KVM](https://linuxuniverse.com.br/linux/qemu)
+- [Linux: conheça o Linux OS](https://www.redhat.com/pt-br/topics/linux)
+- [Linux – Conceitos e História resumida](http://www.bosontreinamentos.com.br/linux/o-que-e-o-linux-conceitos-e-historia-resumida/)
