@@ -4,6 +4,7 @@
 - [Software Livre x Código Aberto](https://www.youtube.com/watch?v=N0NNnq0Wyww)
 - [Licenças de Software ](https://www.youtube.com/watch?v=fPfzp6ov2bQ)
 - [BSD para Desktop](https://youtu.be/LEHiQJjzKus)
+- [PORQUE PROGRAMADOR PRECISA APRENDER LINUX ? - OPINIÃO](https://www.youtube.com/watch?v=FMifcnwSgOk)
 
 - [Canal do Fabio Akita](https://www.youtube.com/@Akitando)
 
