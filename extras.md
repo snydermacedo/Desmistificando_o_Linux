@@ -5,6 +5,7 @@
 - [Licenças de Software ](https://www.youtube.com/watch?v=fPfzp6ov2bQ)
 - [BSD para Desktop](https://youtu.be/LEHiQJjzKus)
 - [PORQUE PROGRAMADOR PRECISA APRENDER LINUX ? - OPINIÃO](https://www.youtube.com/watch?v=FMifcnwSgOk)
+- [Docker do Zero: o mínimo que você precisa saber](https://www.youtube.com/live/GI-KHZF0ASg?feature=share)
 
 - [Canal do Fabio Akita](https://www.youtube.com/@Akitando)
 
